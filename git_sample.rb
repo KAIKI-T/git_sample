@@ -12,3 +12,9 @@ puts <<~TEXT
 SELECT * USERS
 
 TEXT
+
+users =  {"saitou", "yamada","hayashi" }
+
+users.cach do |user|
+
+end
